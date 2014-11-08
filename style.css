@@ -1,0 +1,57 @@
+/* Write your CSS styles here */
+
+.top-paragraph p {
+  color: Orchid;
+  font-family: georgia;
+  margin: 10px;
+}
+
+.top-paragraph h1 {
+  color: Turquoise;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-weight: bold;
+  padding: 10px;
+  margin: 10px;
+}
+
+h2 {
+  color: Turquoise;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.nav {
+  background: 
+    url('http://2.s3.envato.com/files/55296823/preview.jpg') 
+    repeat-x
+    15px 1px
+    white;
+  color: turquoise;
+  font-family: georgia;
+  font-weight: normal;
+  font-variant: small-caps;
+
+}
+ul {
+  width: 200px;
+  border: 2px solid orchid;
+  color: SteelBlue;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    margin: 10px;
+}
+.middle-paragraph p {
+  width: 500px;
+  color: orchid;
+  margin: 10px;
+  padding: 10px;
+  font-family: georgia;
+  font-weight: 100;
+}
+  
+
+  
+
+
+
+
+
+
